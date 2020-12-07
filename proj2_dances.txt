@@ -1,0 +1,94 @@
+Dance Moves,1,0
+Slow Clap,2,0
+Finger Guns,2,0
+Gun Show,2,0
+True Love,2,0
+Face Palm,1,0
+Breaking Point,1,0
+Brush Your Shoulders,1,0
+Jubilation,0,0
+Rock Paper Scissors,0,0
+Click!,1,0
+Thumbs Up,0,0
+Thumbs Down,0,0
+Snap,1,0
+Take 1,1,0
+Dip,0,0
+Red Card,2,0
+Waterworks,1,0
+Sparkler,0,0
+Bring It,0,0
+Finger Wag,2,0
+Hot Stuff,2,0
+Go! Go! Go!,0,0
+Job Well Done,1,0
+Fist Pump,0,0
+My Idol!,2,0
+Wave,1,0
+Salute,2,0
+Respect,2,0
+Gentleman's Dab,0,0
+Dab,0,1
+Flapper,1,1
+Kiss Kiss,2,1
+Pure Salt,0,1
+Flippin' Sexy,1,1
+Make it Rain,2,1
+Step It Up,1,1
+Hootenanny,0,1
+Wiggle,1,1
+Confused,2,1
+Tidy,0,1
+Boneless,1,1
+Chicken,1,1
+Zany,2,1
+Baller,2,1
+Laugh It Up,1,1
+Rambunctious,2,1
+Kick Ups,1,1
+RAWR,0,1
+Eagle,0,1
+Rocket Spinner,0,1
+Infinite Dab,0,1
+Twist,2,1
+Flippin' Incredible,1,1
+On The Hook,0,1
+Pumpernickel,2,1
+Living Large,0,1
+Work It Out,1,1
+Praise the Tomato,2,1
+Fancy Feet,1,1
+Hitchhiker,0,1
+Ride the Pony,2,1
+The Worm,1,1
+Floss,0,1
+Take the L,2,1
+Best Mates,0,1
+Orange Justice,2,1
+Popcorn,2,1
+Hype,1,1
+You're Awesome,0,1
+Calculated,2,1
+Swipe It,1,1
+Fresh,0,2
+Electro Shuffle,1,2
+Breakin',1,2
+Reanimated,1,2
+Rocket Rodeo,2,2
+Disco Fever,2,2
+Rock Out,0,2
+Squat Kick,2,2
+Star Power,0,2
+Pop Lock,1,2
+True Heart,2,2
+Hula,0,2
+Llama Bell,2,2
+Intensity,0,2
+Dance Therapy,0,2
+Shake It Up,0,2
+Vivacious,2,2
+Boogie Down,2,2
+The Robot,1,2
+Groove Jam,1,2
+Breakdown,1,2
+Freestylin,0,2
